@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Mohammad Sadegh Gholizadeh"
   pronouns         : "he/his"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "24 Y/O Researcher"
   location         : "Zanjan, Iran"
   employer         : "Shahid Rajaee Teacher Training University"
   uri              : # URL
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -63,9 +63,9 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "mohammadgholizadeh"
+  telegram         : #"mohammadgholizadeh"
   tumblr           : # Username
-  twitter          : "msghol"
+  twitter          : #"msghol"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
