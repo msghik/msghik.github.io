@@ -16,7 +16,7 @@ Education
   + Bachelor of Computer Engineering 
   + 2019-2024
 
-Honors and Rewards
+Honors and Awards
 ======
 * Exceptional Student Awards from SRU (2022)
 * Member of Iran’s National Elites Foundation 
