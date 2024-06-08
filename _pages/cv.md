@@ -14,7 +14,7 @@ Education
 
 * Shahid Rajaee Teacher Training University (SRU)
   + Bachelor of Computer Engineering 
-  + 2019-2024
+  + 2019 - 2024
 
 Honors and Awards
 ======
@@ -50,7 +50,7 @@ Skills
 Teaching
 ======
 * Mathematics and Computer Olympiad Teacher, 2019 - Present
-* Teaching Assistant, Shahid Rajaee Univeristy, 2020-2023
+* Teaching Assistant, Shahid Rajaee Univeristy, 2020 - 2023
   * Database Systems Concepts, Dr. Negin Daneshpour
   * Microprocessor and Assembly Language, Dr. Zeinab Torabi
   * Automata Theories, Dr. Kianian
