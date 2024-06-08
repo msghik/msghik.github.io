@@ -49,7 +49,7 @@ Skills
 
 Teaching
 ======
-* Mathematics and Computer Olympiad Teacher, 2019 - Present
+* Mathematics and Computer Olympiad Teacher, Ministry of Education,  2019 - Present
 * Teaching Assistant, Shahid Rajaee Univeristy, 2020 - 2023
   * Database Systems Concepts, Dr. Negin Daneshpour
   * Microprocessor and Assembly Language, Dr. Zeinab Torabi
