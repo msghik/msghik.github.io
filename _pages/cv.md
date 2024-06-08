@@ -61,6 +61,6 @@ Languages
 ======
 * Persian : Native
 * Azerbaijani: Native
-* English Fluent 
+* English: Fluent 
   * TOEFL iBT: <b>110</b>/120 (R: 28, L: 27, S: 30, W:25)
   * GRE: <b>322</b>/340 (V: 152, Q: 170, AW: 4.0)
