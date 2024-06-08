@@ -11,54 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* Shahid Rajaee Teacher Training University (SRU)
+  + Bachelor of Computer Engineering 
+  + 2019-2024
+
+Honors and Rewards
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Exceptional Student Awards from SRU (2022)
+* Member of Iran’s National Elites Foundation 
+* Awarded Fully Funded Scholarship from SRU (2019)
+* Ranked 636th Among More Than 144,000 Students in the Nationwide University Entrance Exam (2018)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Experience
+=====
+* <b>Volunteer Researcher </b>, Fall 2024
+  * Deng's Group, University of Waterloo
+  * Supervisor: [Yuntian Deng](https://yuntiandeng.com/)
+  * <b> Implicit Chain of Thought </b>: This paper trains LMs that can reason internally using hidden states instead of articulating all reasoning steps like humans. I had the opportunity to work on 2 multiplications simultaneously using ICoT. ([Link])(https://arxiv.org/pdf/2311.01460.pdf)
+ * <b>Undergraduate Research Assistant </b>, Fall 2022 - Spring 2023
+    * Computer Vision Research Group, Shahid Rajaee University
+    * Supervisor: Ehsan Pazouki
+    * <b>Extraction of Cover Density Map of Rice Seedling </b>:  The aim of this study was to detect rice seedlings in UAV images of paddy fields using transfer learning from the model Faster R-CNN. ([Link](msghik.github.io\files\Rice_Seedlings.pdf))
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* <b>Undergraduate Research Assistant </b>, Fall 2021 - Spring 2022
+  * Computer Vision Research Group, Shahid Rajaee University
+  * Supervisor: Hamidreza Shayegh
+  * <b>Eye Ailment Detection</b>:  Introduced a state-of-the-art method using deep learning to learning to detect different eye pathologies. ([Link](msghik.github.io\files\Detecting_Eye_Ailment.pdf)) 
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, R, C/C++
+* Machine Learning Libraries: PyTorch, Tensorflow
+* Word Processors: Microsoft Office, LaTeX
+* Miscellaneous: PostgreSQl
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Mathematics and Computer Olympiad Teacher, 2019 - Present
+* Teaching Assistant, Shahid Rajaee Univeristy, 2020-2023
+  * Database Systems Concepts, Dr. Negin Daneshpour
+  * Microprocessor and Assembly Language, Dr. Zeinab Torabi
+  * Automata Theories, Dr. Kianian
+  * Artificial Intelligence Fundamentals & Applications, Dr. Kianian
+
   
-Service and leadership
+Languages
 ======
-* Currently signed in to 43 different slack teams
+* Persian : Native
+* Azerbaijani: Native
+* English Fluent 
+  * TOEFL iBT: <b>110</b>/120 (R: 28, L: 27, S: 30, W:25)
+  * GRE: <b>322</b>/340 (V: 152, Q: 170, AW: 4.0)
