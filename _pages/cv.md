@@ -18,7 +18,7 @@ Education
 
 Honors and Awards
 ======
-* Exceptional Student Awards from SRU (2022)
+* Exceptional Student Award from SRU (2022)
 * Member of Iran’s National Elites Foundation 
 * Awarded Fully Funded Scholarship from SRU (2019)
 * Ranked 636th Among More Than 144,000 Students in the Nationwide University Entrance Exam (2018)
