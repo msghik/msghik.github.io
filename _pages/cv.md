@@ -28,15 +28,15 @@ Research Experience
 * <b>Volunteer Researcher </b>, Fall 2024
   * Deng's Group, University of Waterloo
   * Supervisor: [Yuntian Deng](https://yuntiandeng.com/)
-  * <b> Implicit Chain of Thought </b>: This paper trains LMs that can reason internally using hidden states instead of articulating all reasoning steps like humans. I had the opportunity to work on 2 multiplications simultaneously using ICoT. ([Link])(https://arxiv.org/pdf/2311.01460.pdf)
+  * <b> Implicit Chain of Thought </b>: This paper trains LMs that can reason internally using hidden states instead of articulating all reasoning steps like humans. I had the opportunity to work on 2 multiplications simultaneously using ICoT. ([Link](https://arxiv.org/pdf/2311.01460.pdf))
  * <b>Undergraduate Research Assistant </b>, Fall 2022 - Spring 2023
     * Computer Vision Research Group, Shahid Rajaee University
-    * Supervisor: Ehsan Pazouki
+    * Supervisor: [Ehsan Pazouki](https://ir.linkedin.com/in/ehsan-pazouki)
     * <b>Extraction of Cover Density Map of Rice Seedling </b>:  The aim of this study was to detect rice seedlings in UAV images of paddy fields using transfer learning from the model Faster R-CNN. ([Link](msghik.github.io\files\Rice_Seedlings.pdf))
 
 * <b>Undergraduate Research Assistant </b>, Fall 2021 - Spring 2022
   * Computer Vision Research Group, Shahid Rajaee University
-  * Supervisor: Hamidreza Shayegh
+  * Supervisor: [Hamidreza Shayegh](https://de.linkedin.com/in/hrshayegh)
   * <b>Eye Ailment Detection</b>:  Introduced a state-of-the-art method using deep learning to learning to detect different eye pathologies. ([Link](msghik.github.io\files\Detecting_Eye_Ailment.pdf)) 
 
 Skills
