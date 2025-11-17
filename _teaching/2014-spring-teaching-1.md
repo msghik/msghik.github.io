@@ -1,20 +1,34 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant - Database Systems Concepts"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2020-database-systems
+venue: "Shahid Rajaee Teacher Training University, Computer Engineering Department"
+date: 2020-09-01
+location: "Tehran, Iran"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Served as Teaching Assistant for Database Systems Concepts under Dr. Negin Daneshpour.
 
-Heading 1
+Responsibilities
 ======
+* Assisted with course material preparation and student mentoring
+* Conducted weekly tutorial sessions on SQL, database design, and query optimization
+* Graded assignments, projects, and exams
+* Provided technical guidance during office hours
+* Helped students with practical database implementation projects
 
-Heading 2
+Topics Covered
 ======
+* Relational database design and normalization
+* SQL query language and optimization
+* Transaction management and concurrency control
+* Database indexing and performance tuning
+* NoSQL databases and modern database systems
 
-Heading 3
+Skills Developed
 ======
+* Effective communication of complex technical concepts
+* Mentoring and guiding undergraduate students
+* Course material preparation and grading
+* Database administration and optimization
