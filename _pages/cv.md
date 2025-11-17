@@ -11,99 +11,101 @@ redirect_from:
 
 Education
 ======
-* **B.Sc. in Computer Engineering**, 2019 - 2024
-  * Shahid Rajaee Teacher Training University (SRU), Tehran, Iran
-  * Thesis: Advanced Methods in Computer Vision and Machine Learning
-  * Graduated with Distinction
+* **M.S. in Computer Science**, 2024 - 2026 (Expected)
+    * [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en)
+* **B.S. in Computer Engineering**, 2019 - 2024
+    * [Shahid Rajaee Teacher Training University](https://sru.ac.ir/en), Tehran, Iran
+    * Minor in Educational Psychology
+* **High School Diploma in Mathematics & Physics**, 2015-2018
+    * National Organization for Development of Exceptional Talents (Sampad)
 
 Honors and Awards
 ======
-* **Exceptional Student Award** from Shahid Rajaee Teacher Training University (2022)
-* **Member of Iran's National Elites Foundation** - Recognition for outstanding academic achievement
-* **Fully Funded Scholarship** from SRU (2019-2024) - Merit-based full tuition scholarship
-* **Ranked 636th Among 144,000+ Students** in the Iranian Nationwide University Entrance Exam (Konkoor, 2018)
+* **Computer Engineering Department Dean's List**
+    * In all Semesters, except Fall 2021
+* **Member of [Iran's National Elite Foundation](https://bmn.ir/en)**
+* **Ranked 636th Among More Than 144,000 Students**
+    * in the Math & Physics group of Nationwide University Entrance Exam
+* **Fully Funded Scholarship**
+    * from Shahid Rajaee University
+* **Accepted Qualification (Pre-Medal) Stage of Informatic Olympiad in Iran (2017)**
 
-Research Experience
+Research & Work Experience
 ======
-* **Volunteer Researcher**, Fall 2024 - Present
-  * Deng's Research Group, University of Waterloo
-  * Supervisor: [Prof. Yuntian Deng](https://yuntiandeng.com/)
-  * **Project: Implicit Chain of Thought in Large Language Models**
-    * Training language models to reason internally using hidden states rather than explicit verbalization
-    * Working on simultaneous 2-digit multiplication tasks using Implicit Chain of Thought (ICoT)
-    * Exploring how models can develop internal reasoning mechanisms similar to human cognition
-    * [Paper Link](https://arxiv.org/pdf/2311.01460.pdf)
+* **Machine Learning Research Intern**, June 2025 - August 2025
+    * [Google DeepMind](https://deepmind.google/), Remote, United States
+    * Engineered the Speech-to-Retrieval (S2R) engine, a novel dual-encoder architecture that directly maps spoken queries to retrieval intent, bypassing ASR to solve cascade modeling error propagation.
+    * Achieved S2R performance that approached the theoretical upper-bound MRR, demonstrating significant gains over the baseline Cascade ASR model across multiple languages.
+    * Contributed to the system's live deployment across Google Search and prepared the Simple Voice Questions (SVQ) dataset for open-source release.
 
-* **Undergraduate Research Assistant**, Fall 2022 - Spring 2023
-  * Computer Vision Research Group, Shahid Rajaee Teacher Training University
-  * Supervisor: [Dr. Ehsan Pazouki](https://ir.linkedin.com/in/ehsan-pazouki)
-  * **Project: Extraction of Cover Density Map of Rice Seedlings**
-    * Developed automated detection system for rice seedlings in UAV imagery of paddy fields
-    * Implemented transfer learning approach using Faster R-CNN architecture
-    * Applied computer vision techniques to precision agriculture for crop monitoring and yield prediction
-    * [Project Report](https://msghik.github.io/files/Rice_Seedlings.pdf)
+* **Research Assistant**, May 2024 - Present
+    * [University of South Carolina](https://www.sc.edu/), Remote
+    * Advised by [Prof. Pooyan Jamshidi](https://pooyanjamshidi.github.io/)
+    * Developed symbolic math reasoning systems using transformers and sequence-to-sequence models for integration and ODE problems.
+    * Worked on large-scale data generation pipelines and notation parsers for training LLMs in mathematical environments.
 
-* **Undergraduate Research Assistant**, Fall 2021 - Spring 2022
-  * Computer Vision Research Group, Shahid Rajaee Teacher Training University
-  * Supervisor: [Dr. Hamidreza Shayegh](https://de.linkedin.com/in/hrshayegh)
-  * **Project: Eye Ailment Detection Using Deep Learning**
-    * Developed state-of-the-art deep learning models for automated detection of eye pathologies
-    * Implemented and evaluated multiple CNN architectures for medical image classification
-    * Achieved high accuracy in identifying various eye diseases from retinal images
-    * [Project Report](https://msghik.github.io/files/Detecting_Eye_Ailment.pdf) 
+* **Undergraduate Research Collaborator**, January 2024 - May 2024
+    * [University of Waterloo](https://uwaterloo.ca/), Remote
+    * Advised by [Prof. Yuntian Deng](https://yuntiandeng.com/)
+    * Trained LLMs with implicit chain-of-thought reasoning via knowledge distillation from intermediate states (Paper In Submission).
+    * Implemented dual-multiplication task models with internalized reasoning traces to minimize token length without sacrificing accuracy.
+
+* **AI/Software Engineer**, 2023
+    * Sanay Co, Remote
+    * Led the design, development, and deployment of a proprietary Retrieval-Augmented Generation (RAG) system, leveraging LLM APIs via LangChain.
+    * Architected a high-availability backend service (FastAPI) featuring user-authenticated memory via JWT and Redis, supporting dynamic, user-specific Agentic state.
+    * Engineered advanced system mechanics, including prompt chaining, summarization, and robust fallback handling for production-grade performance.
+    * Designed data infrastructure around custom Vector Store backends and relational databases for large-scale LLM applications.
+
+* **Research Assistant**, 2021 - 2023
+    * [Shahid Rajaee University](https://sru.ac.ir/en), Tehran
+    * Advised by Prof. Hamidreza Shayegh & Prof. Ehsan Pazouki
+    * Applied transfer learning with Faster R-CNN for detecting rice seedlings in UAV paddy field imagery (Paper Submitted to ECCV).
+    * Designed CNN-based diagnostic tool for retinal disease classification (Paper Presented at National Conference on Machine Learning).
 
 Technical Skills
 ======
-* **Programming Languages**: Python, R, C/C++
-* **Machine Learning & AI**: PyTorch, TensorFlow, Scikit-learn
-* **Computer Vision**: OpenCV, Image Processing, Object Detection
-* **Tools & Technologies**: Git, Linux, PostgreSQL
-* **Documentation**: LaTeX, Microsoft Office, Markdown
+* **Languages**: Python (Expert), C++, R, Bash
+* **AI/ML Frameworks**: PyTorch, TensorFlow, JAX, HuggingFace, Scikit-learn, LangChain, OpenCV, CUDA
+* **Tools & MLOps**: Docker, Kubernetes (K8s), Git, CI/CD, Apache Kafka, Google Cloud Platform (GCP), AWS, Sparks, Elasticsearch, Logstash
+* **Databases & Backend**: Vector Databases (e.g., Pinecone/Faiss), PostgreSQL, Redis, FastAPI, MongoDB
+* **Concepts & Architectures**: Agentic AI, Generative AI, RAG Systems, LLMs (APIs & Fine-tuning), CoT Reasoning, MLOps, Observability, ASR, Knowledge Distillation, Adversarial ML
 
-
-Teaching Experience
+Teaching & Mentoring Experience
 ======
-* **Mathematics and Computer Science Olympiad Teacher**, 2019 - Present
-  * Ministry of Education, Iran
-  * Preparing talented students for national and international mathematics and computer science competitions
-  * Teaching advanced problem-solving techniques and algorithmic thinking
-
-* **Teaching Assistant**, Shahid Rajaee Teacher Training University, 2020 - 2023
-  * **Database Systems Concepts** (Instructor: Dr. Negin Daneshpour)
-    * Assisted with course material, grading, and student mentoring
-    * Conducted tutorial sessions on SQL, database design, and query optimization
-  
-  * **Microprocessor and Assembly Language** (Instructor: Dr. Zeinab Torabi)
-    * Supported laboratory sessions and helped students with assembly programming
-    * Graded assignments and provided technical guidance
-  
-  * **Automata Theory and Formal Languages** (Instructor: Dr. Kianian)
-    * Assisted with theoretical concepts in computation and formal languages
-    * Helped students understand finite automata, regular expressions, and context-free grammars
-  
-  * **Artificial Intelligence Fundamentals & Applications** (Instructor: Dr. Kianian)
-    * Supported coursework on AI fundamentals including search algorithms, machine learning basics
-    * Assisted with practical AI projects and programming assignments
+* **Head Teaching Assistant, Co-Instructor**
+    * [Sharif University of Technology](https://en.sharif.edu/), CE 40153: Fundamentals of Programming
+* **Teaching Assistant**
+    * Sharif University of Technology, CE 40254: Data Structures and Algorithms
+* **Head Teaching Assistant, Co-Instructor**
+    * Shahid Rajaee University, CE 224E: Database Systems Concepts
+    * Co-designed curriculum, wrote and taught lectures, managed team of 5-6 TAs.
+    * Awarded for being in the top 5% of TAs in Department of Computer Engineering.
+* **Teaching Assistant**
+    * Shahid Rajaee University, CE 209N: Microprocessor and Assembly Language
+* **Teaching Assistant**
+    * Shahid Rajaee University, CE 252N: Automata Theories
+* **Teaching Assistant**
+    * Shahid Rajaee University, CS 121: Artificial Intelligence Fundamentals & Applications
+* **Volunteer Instructor**
+    * National Organization for Development of Exceptional Talents, Math & Informatic Olympiad
+    * Taught 2 courses and additional lectures on mathematics and algorithms for national Olympiads.
+* **Students Mentored**:
+    * Mohammad Yasin Karami. BS. Topic: Understanding LLMs
 
 Publications & Projects
 ======
 For a complete list of publications and research projects, please visit my [Publications page](/publications/).
 
-  
 Languages & Standardized Tests
 ======
 * **Persian**: Native Speaker
 * **Azerbaijani**: Native Speaker
 * **English**: Fluent
-  * **TOEFL iBT**: 110/120 (Reading: 28, Listening: 27, Speaking: 30, Writing: 25)
-  * **GRE General Test**: 322/340 (Verbal: 152, Quantitative: 170, Analytical Writing: 4.0)
+    * **TOEFL iBT**: 110/120 (Reading: 28, Listening: 27, Speaking: 30, Writing: 25)
+    * **GRE General Test**: 322/340 (Verbal: 152, Quantitative: 170, Analytical Writing: 4.0)
 
 Professional Development
 ======
-* Active member of computer vision and machine learning research communities
-* Regular participant in AI/ML seminars and workshops
 * Contributor to open-source projects in machine learning
 
-References
-======
-Available upon request

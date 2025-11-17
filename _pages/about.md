@@ -3,32 +3,30 @@ permalink: /
 title: "About Me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about/
+  - /about.html
 ---
 
-I am Mohammad Sadegh Gholizadeh, a computer science researcher with a strong foundation in artificial intelligence and computer vision. I earned my B.Sc. degree in Computer Engineering from [Shahid Rajaee Teacher Training University](https://sru.ac.ir) in 2024, where I graduated with distinction and received the Exceptional Student Award.
+I am Mohammad Sadegh Gholizadeh, a computer science researcher and a current MS student in Computer Science at [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en). I earned my B.Sc. degree in Computer Engineering from [Shahid Rajaee Teacher Training University](https://sru.ac.ir/en) in 2024, where I graduated with distinction.
 
-I am fortunate to have worked under the supervision of [Professor Hamidreza Shayegh](https://de.linkedin.com/in/hrshayegh) and [Professor Ehsan Pazouki](https://ir.linkedin.com/in/ehsan-pazouki), conducting research in computer vision and deep learning applications. More recently, I have been collaborating as a volunteer researcher with [Professor Yuntian Deng](https://yuntiandeng.com/) at the University of Waterloo, working on implicit reasoning in large language models.
+Currently, I am a Research Assistant at the [University of South Carolina](https://www.sc.edu/), advised by [Prof. Pooyan Jamshidi](https://pooyanjamshidi.github.io/), where I am developing symbolic math reasoning systems using transformers for integration and ODE problems.
+
+This past summer (June-August 2025), I was a Machine Learning Research Intern at [Google DeepMind](https://deepmind.google/). My work involved engineering the Speech-to-Retrieval (S2R) engine, a novel dual-encoder architecture that directly maps spoken queries to retrieval intent, bypassing ASR to solve cascade modeling error propagation. I also have previous research experience collaborating with [Professor Yuntian Deng](https://yuntiandeng.com/) at the [University of Waterloo](https://uwaterloo.ca/) on implicit chain-of-thought reasoning in LLMs and industry experience at Sanay Co leading the design, development, and deployment of a proprietary Retrieval-Augmented Generation (RAG) system and scalable backend services at Yektanet.
 
 Research Interests
 ======
 My research interests span several areas of artificial intelligence:
-* **Natural Language Processing**: Chain of Thought reasoning, implicit reasoning in LLMs
-* **Computer Vision**: Medical image analysis, agricultural applications, object detection
-* **Machine Learning**: Deep learning architectures, transfer learning, optimization methods
-
-Current Research
-======
-I am currently working on:
-* **Implicit Chain of Thought**: Training language models to reason internally using hidden states rather than explicit step-by-step reasoning, with a focus on multi-task mathematical operations
-* **Medical Image Analysis**: Developing deep learning methods for detecting eye pathologies using state-of-the-art computer vision techniques
-* **Agricultural Computer Vision**: Applying transfer learning and Faster R-CNN for rice seedling detection in UAV imagery
+* **Natural Language Processing**: Large Language Models (LLMs), Chain of Thought reasoning, implicit reasoning, and symbolic math reasoning.
+* **Speech Recognition**: Automatic Speech Recognition (ASR), particularly with Whisper-based models.
 
 Academic Background
 ======
-As a member of Iran's National Elites Foundation and recipient of a fully funded scholarship, I ranked 636th among more than 144,000 students in Iran's Nationwide University Entrance Exam. Throughout my undergraduate studies, I maintained a strong academic record while actively engaging in research and teaching activities.
+As a member of [Iran's National Elite Foundation](https://bmn.ir/en) and recipient of a fully funded scholarship from Shahid Rajaee University, I ranked 636th among more than 144,000 students in Iran's Nationwide University Entrance Exam. Throughout my undergraduate studies, I maintained a strong academic record (placing on the Dean's List in all semesters except one) while actively engaging in research and teaching activities.
+
+Teaching & Mentoring
+======
+I am passionate about teaching and mentoring. I have served as a Head Teaching Assistant and Co-Instructor for "Fundamentals of Programming" at [Sharif University of Technology](https://en.sharif.edu/), and as a Teaching Assistant for their "Data Structures and Algorithms" course. At Shahid Rajaee University, I was a Head Teaching Assistant and Co-Instructor for "Database Systems Concepts", where I co-designed curriculum, taught lectures, managed a team of TAs, and was awarded for being in the top 5% of TAs in the department. I also served as a Teaching Assistant for "Microprocessor and Assembly Language", "Automata Theories", and "Artificial Intelligence Fundamentals & Applications". Additionally, I have been a Volunteer Instructor for the National Organization for Development of Exceptional Talents, teaching mathematics and algorithms for national Olympiads, and have mentored students in understanding LLMs.
 
 Beyond Academia
 ======
-Outside of research, I enjoy playing soccer and reading philosophical works, particularly exploring Islamic philosophical thought and the writings of Avicenna (Ibn Sina). I am a native speaker of Persian and Azerbaijani, and fluent in English (TOEFL iBT: 110/120, GRE: 322/340).  
+Outside of research, I enjoy playing soccer and reading philosophical works, particularly exploring philosophical thought and the writings of Avicenna (Ibn Sina).
