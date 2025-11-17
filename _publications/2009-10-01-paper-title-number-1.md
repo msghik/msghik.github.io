@@ -1,13 +1,31 @@
 ---
-title: "Paper Title Number 1"
+title: "Eye Ailment Detection Using Deep Learning"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2021-eye-ailment-detection
+excerpt: 'A state-of-the-art deep learning approach for automated detection of eye pathologies using convolutional neural networks.'
+date: 2022-05-01
+venue: 'Undergraduate Research Project'
+paperurl: 'https://msghik.github.io/files/Detecting_Eye_Ailment.pdf'
+citation: 'Gholizadeh, M.S. (2022). &quot;Eye Ailment Detection Using Deep Learning.&quot; Shahid Rajaee Teacher Training University.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This research project introduced a state-of-the-art method using deep learning to detect different eye pathologies. The work focused on implementing and evaluating multiple CNN architectures for medical image classification, achieving high accuracy in identifying various eye diseases from retinal images.
+
+## Project Overview
+
+**Objective**: Develop an automated system for detecting eye diseases using deep learning techniques
+
+**Methodology**: 
+- Implemented convolutional neural networks for medical image analysis
+- Evaluated multiple deep learning architectures
+- Performed transfer learning from pre-trained models
+- Optimized for high accuracy and clinical applicability
+
+**Key Contributions**:
+- State-of-the-art performance in eye pathology detection
+- Comprehensive evaluation of different CNN architectures
+- Potential application in clinical settings for early disease detection
+
+**Supervisor**: [Dr. Hamidreza Shayegh](https://de.linkedin.com/in/hrshayegh)  
+**Institution**: Computer Vision Research Group, Shahid Rajaee Teacher Training University  
+**Duration**: Fall 2021 - Spring 2022
