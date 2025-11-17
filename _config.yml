@@ -10,8 +10,10 @@
 locale: "en-US"
 title: "Mohammad Gholizadeh"
 title_separator: "-"
-name: &name "Mohammad Sadegh Gholizadeh"
-description: &description "Computer Science Researcher specializing in AI, Computer Vision, and Natural Language Processing"
+name: &name #"Mohammad Sadegh Gholizadeh"
+
+
+description: &description ""
 url: https://msghik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "msghik/msghik.github.io"
@@ -24,15 +26,15 @@ author:
   avatar: "profile.jpg"
   name: "Mohammad Sadegh Gholizadeh"
   pronouns: "he/his"
-  bio: "AI Researcher | Computer Vision & NLP | B.Sc. Computer Engineering"
-  location: "Zanjan, Iran"
-  employer: "Volunteer Researcher at University of Waterloo"
+  bio: "CS M.Sc. @ Amirkabir University of Technology"
+  location: "Tehran, Iran"
+  # employer: "Volunteer Researcher at University of Waterloo"
   uri: # URL
-  email: "msgholizadeh.edu@gmail.com"
+  email: "msgholizadeh.edu[@]gmail.com"
 
   # Academic websites
   arxiv: # URL - Update with the correct link to your profile
-  googlescholar: #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar: "https://scholar.google.com/citations?view_op=list_works&hl=en&user=udc3wtoAAAAJ"
   impactstory: # URL
   orcid: #"http://orcid.org/yourorcidurl"
   semantic: # URL
@@ -44,7 +46,7 @@ author:
   codepen: # Username
   dribbble: # Username
   github: "msghik"
-  kaggle: # Username
+  kaggle: "mohammadsgholizadeh"
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
@@ -63,9 +65,9 @@ author:
   pinterest: # Username
   soundcloud: # Username
   steam: # Username
-  telegram: #"mohammadgholizadeh"
+  telegram: "mohammadgholizadeh"
   tumblr: # Username
-  twitter: #"msghol"
+  twitter: "msghol"
   vine: # Username
   weibo: # Username
   wikipedia: # Username
