@@ -1,10 +1,10 @@
 ---
 permalink: /
-title: "Hello World"
+title: "About Me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /about/
+  - /about.html
 ---
 
 I am Mohammad Sadegh Gholizadeh, a computer science researcher and a current MS student in Computer Science at [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en). I earned my B.Sc. degree in Computer Engineering from [Shahid Rajaee Teacher Training University](https://sru.ac.ir/en) in 2024, where I graduated with distinction.
