@@ -1,7 +1,7 @@
 ---
 title: 'Excited to Join Google DeepMind This Summer!'
-date: 2025-11-20
-permalink: /posts/2025/11/joining-google-deepmind/
+date: 2025-02-14
+permalink: /posts/2025/02/joining-google-deepmind/
 tags:
   - news
   - internship
