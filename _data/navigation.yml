@@ -3,5 +3,11 @@ main:
   # - title: "Research"
   #   url: /research/
 
+  - title: "Publications"
+    url: /publications/
+
+  - title: "News"
+    url: /year-archive/
+
   - title: "CV"
     url: /cv/
