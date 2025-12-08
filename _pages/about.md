@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About Me"
+title: "Mohammad Sadegh Gholizadeh"
+excerpt: "Computer Science Researcher | MS Student at Amirkabir University of Technology | Research in NLP, LLMs, and Machine Learning"
 author_profile: true
 redirect_from:
   - /about/

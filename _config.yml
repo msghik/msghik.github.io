@@ -8,12 +8,11 @@
 
 # Basic Site Settings
 locale: "en-US"
-title: "Mohammad Gholizadeh"
+title: "Mohammad Sadegh Gholizadeh"
 title_separator: "-"
-name: &name #"Mohammad Sadegh Gholizadeh"
+name: &name "Mohammad Sadegh Gholizadeh"
 
-
-description: &description ""
+description: &description "Mohammad Sadegh Gholizadeh - Computer Science Researcher, MS Student at Amirkabir University of Technology (Tehran Polytechnic). Research interests in NLP, LLMs, Speech Recognition, and Machine Learning."
 url: https://msghik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "msghik/msghik.github.io"
@@ -125,7 +124,7 @@ facebook:
   username:
   app_id:
   publisher:
-og_image: # Open Graph/Twitter default site image
+og_image: "profile.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
