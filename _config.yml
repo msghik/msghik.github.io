@@ -13,7 +13,7 @@ title_separator: "-"
 name: &name "Mohammad Sadegh Gholizadeh"
 
 description: &description "Mohammad Sadegh Gholizadeh - Computer Science Researcher, MS Student at Amirkabir University of Technology (Tehran Polytechnic). Research interests in NLP, LLMs, Speech Recognition, and Machine Learning."
-url: https://msghik.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://msghik.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "msghik/msghik.github.io"
 
@@ -112,7 +112,7 @@ atom_feed:
   path: # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification:
+google_site_verification: google7e0ae28fb9dd5230
 bing_site_verification:
 alexa_site_verification:
 yandex_site_verification:
