@@ -51,11 +51,11 @@ Research & Work Experience
     * Implemented dual-multiplication task models with internalized reasoning traces to minimize token length without sacrificing accuracy.
 
 * **AI/Software Engineer**, 2023
-    * Sanay Co, Remote
-    * Led the design, development, and deployment of a proprietary Retrieval-Augmented Generation (RAG) system, leveraging LLM APIs via LangChain.
-    * Architected a high-availability backend service (FastAPI) featuring user-authenticated memory via JWT and Redis, supporting dynamic, user-specific Agentic state.
-    * Engineered advanced system mechanics, including prompt chaining, summarization, and robust fallback handling for production-grade performance.
-    * Designed data infrastructure around custom Vector Store backends and relational databases for large-scale LLM applications.
+    * Allora Labs, Remote
+    * Developed an event-driven system using Kafka, MLflow, Airflow, and Kubernetes to enable users to deploy custom machine learning models for real-time tagging of millions of data points per minute.
+    * Developed MLOps pipelines and systems for predicting customer behavior and topic modeling.
+    * Developed AI chatbots and agentic LLM workflows integrated with RAG at enterprise scale, handling over 1,000 queries per hour.
+    * Designed and developed an Automatic Speech Recognition (ASR) system architecture, along with data extraction and customer behavior dashboards to drive data-informed executive decisions.
 
 * **Research Assistant**, 2021 - 2023
     * [Shahid Rajaee University](https://sru.ac.ir/en), Tehran
