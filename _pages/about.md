@@ -10,16 +10,16 @@ redirect_from:
 
 I am Mohammad Sadegh Gholizadeh, a computer science researcher and a current MS student in Computer Science at [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en). I earned my B.Sc. degree in Computer Engineering from [Shahid Rajaee Teacher Training University](https://sru.ac.ir/en) in 2024, where I graduated with distinction. 
 
-[Download my resume (PDF)](/files/resume.pdf).
+[Download my resume (PDF)](/files/resume.pdf)
 
-Currently, I am a Research Assistant at the [University of South Carolina](https://www.sc.edu/), advised by [Prof. Pooyan Jamshidi](https://pooyanjamshidi.github.io/), where I am developing symbolic math reasoning systems using transformers for integration and ODE problems.
+Currently, I am a Research Assistant at the [University of South Carolina](https://www.sc.edu/), advised by [Prof. Pooyan Jamshidi](https://pooyanjamshidi.github.io/), where I am working on Subliminal Learning and Subliminal Steering Concering AI Safety. I also work on In Context Scheaming and Fake Alignment in LLMs. 
 
 This past summer (June-August 2025), I was a Machine Learning Research Intern at [Google DeepMind](https://deepmind.google/). My work involved engineering the Speech-to-Retrieval (S2R) engine, a novel dual-encoder architecture that directly maps spoken queries to retrieval intent, bypassing ASR to solve cascade modeling error propagation. I also have previous research experience collaborating with [Professor Yuntian Deng](https://yuntiandeng.com/) at the [University of Waterloo](https://uwaterloo.ca/) on implicit chain-of-thought reasoning in LLMs and industry experience at Allora Labs developing event-driven ML systems, MLOps pipelines, enterprise-scale AI chatbots, and ASR architectures.
 
 Research Interests
 ======
 My research interests span several areas of artificial intelligence:
-* **Natural Language Processing**: Large Language Models (LLMs), Chain of Thought reasoning, implicit reasoning, and symbolic math reasoning.
+* **Natural Language Processing**: Large Language Models (LLMs), Reasoning, AI Safety, and Interpretability.
 * **Speech Recognition**: Automatic Speech Recognition (ASR), particularly with Whisper-based models.
 
 Academic Background
