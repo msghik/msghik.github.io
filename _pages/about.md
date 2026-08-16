@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Mohammad Sadegh Gholizadeh, a computer science researcher and a current MS student in Computer Science at [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en). I earned my B.Sc. degree in Computer Engineering from [Shahid Rajaee Teacher Training University](https://sru.ac.ir/en) in 2024, where I graduated with distinction.
+I am Mohammad Sadegh Gholizadeh, a computer science researcher and a current MS student in Computer Science at [Amirkabir University of Technology (Tehran Polytechnic)](https://aut.ac.ir/en). I earned my B.Sc. degree in Computer Engineering from [Shahid Rajaee Teacher Training University](https://sru.ac.ir/en) in 2024, where I graduated with distinction. 
+
+[Download my resume (PDF)](/files/resume.pdf).
 
 Currently, I am a Research Assistant at the [University of South Carolina](https://www.sc.edu/), advised by [Prof. Pooyan Jamshidi](https://pooyanjamshidi.github.io/), where I am developing symbolic math reasoning systems using transformers for integration and ODE problems.
 
